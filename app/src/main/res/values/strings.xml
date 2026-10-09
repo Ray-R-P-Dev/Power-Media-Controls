@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name" translatable="false">Power Media Controls</string>
+    <string name="appNameShort" translatable="false">Media Controls</string>
+    <string name="ActionTogglePlayPause">Toggle Play/Pause</string>
+    <string name="ActionPlay">Play</string>
+    <string name="ActionNext">Next Track</string>
+    <string name="ActionPrevious">Previous Track</string>
+    <string name="ActionStop">Stop</string>
+    <string name="documentation">Info</string>
+    <string name="support">Support</string>
+    <string name="run_action">Run action</string>
+    <string name="action_icon">Action icon</string>
+    <string name="info">Info</string>
+    <string name="donate">Donate</string>
+    <string name="rate_the_app">Rate the app</string>
+    <string name="no_email_app_found">No email app found</string>
+    <string name="more_modules">More Modules</string>
+    <string name="unknown">Unknown</string>
+    <string name="changelog">Changelog</string>
+    <string name="open_source_licenses">Open source licenses</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="how_to_use_this_app">How to use the app</string>
+    <string name="check_the_documentation">Check the documentation</string>
+    <string name="First_Screen_Notice">This app is intended to be used alongside the Samsung Modes and Routines app.\n\nNone of the Power modules are officially made or endorsed by Samsung in any way.</string>
+    <string name="notice">Notice</string>
+
+    <string name="doc_title">Documentation</string>
+    <string name="doc_intro_title">Introduction</string>
+    <string name="doc_intro_body">This app is an add-on, made especially to be used alongside Modes and Routines, but can also be used with other automation software on Android in order to control media automatically.</string>
+    <string name="doc_how_to_title">How to use</string>
+    <string name="doc_how_to_body">To run the media control actions:\n\nUse the \"Open app\" action in Modes and Routines</string>
+    <string name="doc_how_to_body2">Choose the \"Open app or do app action\" option.</string>
+    <string name="doc_how_to_body3">Then select one of the provided shortcuts (Play, Pause, etc.).</string>
+    <string name="doc_mechanism_title">How it works</string>
+    <string name="doc_mechanism_body">The app provides static App Shortcuts that trigger media commands.</string>
+    <string name="licenses_content">Open Source Licenses</string>
+
+    <!-- UI Labels & Messages -->
+    <string name="ok">OK</string>
+    <string name="close">Close</string>
+    <string name="open_routines">Open Routines</string>
+    <string name="samsung_routines_not_available">Samsung Modes and Routines is not available on this device</string>
+    <string name="support_email_subject">PMC - Support / Feedback</string>
+    <string name="support_email_body">\n \n Android version: %1$s \n App version: %2$s \n Device model: %3$s</string>
+    <string name="back">Back</string>
+    <string name="changelog_not_available">Changelog not available.</string>
+</resources>

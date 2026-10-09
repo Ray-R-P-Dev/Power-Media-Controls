@@ -1,0 +1,18 @@
+Version 1.4.9-beta:
+
+- Overall code optimization
+- Removed rate app option
+- Changed "more modules" and "Open Routines" icons
+
+Version 1.4.8-beta:
+
+- Improved documentation instructions
+- Fixed play/pause text
+- Added rate app link
+- Changed action order
+
+Version 1.4.7-beta:
+
+- Changed changelog system
+- Fixed play / pause icon
+- Overall code optimization

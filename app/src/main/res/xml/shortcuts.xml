@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="play_media"
+        android:enabled="true"
+        android:icon="@drawable/centerplaycompressed"
+        android:shortcutShortLabel="@string/ActionPlay"
+        android:shortcutLongLabel="@string/ActionPlay">
+        <intent
+            android:action="com.rayDev.powermediacontrols.ACTION_SHORTCUT"
+            android:targetPackage="com.rayDev.powermediacontrols"
+            android:targetClass="com.rayDev.powermediacontrols.utils.ShortcutHandlerActivity">
+            <extra android:name="COMMAND" android:value="MEDIA_1" />
+        </intent>
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="toggle_play_pause"
+        android:enabled="true"
+        android:icon="@drawable/smaller_better_playpause"
+        android:shortcutShortLabel="@string/ActionTogglePlayPause"
+        android:shortcutLongLabel="@string/ActionTogglePlayPause">
+        <intent
+            android:action="com.rayDev.powermediacontrols.ACTION_SHORTCUT"
+            android:targetPackage="com.rayDev.powermediacontrols"
+            android:targetClass="com.rayDev.powermediacontrols.utils.ShortcutHandlerActivity">
+            <extra android:name="COMMAND" android:value="MEDIA_2" />
+        </intent>
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="next_track"
+        android:enabled="true"
+        android:icon="@drawable/final_next_track"
+        android:shortcutShortLabel="@string/ActionNext"
+        android:shortcutLongLabel="@string/ActionNext">
+        <intent
+            android:action="com.rayDev.powermediacontrols.ACTION_SHORTCUT"
+            android:targetPackage="com.rayDev.powermediacontrols"
+            android:targetClass="com.rayDev.powermediacontrols.utils.ShortcutHandlerActivity">
+            <extra android:name="COMMAND" android:value="MEDIA_5" />
+        </intent>
+    </shortcut>
+    <shortcut
+        android:shortcutId="previous_track"
+        android:enabled="true"
+        android:icon="@drawable/final_previous_track"
+        android:shortcutShortLabel="@string/ActionPrevious"
+        android:shortcutLongLabel="@string/ActionPrevious">
+        <intent
+            android:action="com.rayDev.powermediacontrols.ACTION_SHORTCUT"
+            android:targetPackage="com.rayDev.powermediacontrols"
+            android:targetClass="com.rayDev.powermediacontrols.utils.ShortcutHandlerActivity">
+            <extra android:name="COMMAND" android:value="MEDIA_4" />
+        </intent>
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="stop_media"
+        android:enabled="true"
+        android:icon="@drawable/final_stop_playback"
+        android:shortcutShortLabel="@string/ActionStop"
+        android:shortcutLongLabel="@string/ActionStop">
+        <intent
+            android:action="com.rayDev.powermediacontrols.ACTION_SHORTCUT"
+            android:targetPackage="com.rayDev.powermediacontrols"
+            android:targetClass="com.rayDev.powermediacontrols.utils.ShortcutHandlerActivity">
+            <extra android:name="COMMAND" android:value="MEDIA_3" />
+        </intent>
+    </shortcut>
+</shortcuts>
