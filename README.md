@@ -6,15 +6,15 @@
 ## Introduction
 
 <p align="center">
-  <img src=".app/src/main/res/drawable-nodpi/android_1_1.jpg"/>
-  <img src=".app/src/main/res/drawable-nodpi/android_1_2.jpg"/>
+  <img src="/.app/src/main/res/drawable-nodpi/android_1_1.jpg"/>
+  <img src="/.app/src/main/res/drawable-nodpi/android_1_2.jpg"/>
 </p>
 
 Power Media Controls works as a module for Modes and Routines that allows users to control media (play, pause, skip tracks, etc.) using the *"open app or do an app action"* action.
 
 ## How it works
 
-The app uses static shortcut actions that can be triggered by Modes and Routines (even in the background) to control media.
+The app uses static shortcut actions that Modes and Routines can trigger (even in the background) to control media.
 
 ## How to use
 
