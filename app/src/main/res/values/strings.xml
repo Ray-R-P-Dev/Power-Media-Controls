@@ -28,8 +28,8 @@
     <string name="doc_intro_title">Introduction</string>
     <string name="doc_intro_body">This app is an add-on, made especially to be used alongside Modes and Routines, but can also be used with other automation software on Android in order to control media automatically.</string>
     <string name="doc_how_to_title">How to use</string>
-    <string name="doc_how_to_body">To run the media control actions:\n\nUse the \"Open app\" action in Modes and Routines</string>
-    <string name="doc_how_to_body2">Choose the \"Open app or do app action\" option.</string>
+    <string name="doc_how_to_body">To run the media control actions:\n\nChoose the \"Open app\" category in Modes and Routines</string>
+    <string name="doc_how_to_body2">Tap on the \"Open app or do app action\" option.</string>
     <string name="doc_how_to_body3">Then select one of the provided shortcuts (Play, Pause, etc.).</string>
     <string name="doc_mechanism_title">How it works</string>
     <string name="doc_mechanism_body">The app provides static App Shortcuts that trigger media commands.</string>

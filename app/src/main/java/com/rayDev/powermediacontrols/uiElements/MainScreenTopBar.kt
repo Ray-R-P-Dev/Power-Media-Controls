@@ -99,7 +99,7 @@ fun TheTopBar() {
                                     text = { Text(stringResource(R.string.open_routines), color = if (isSystemInDarkTheme()) Color.White else Color.Black) },
                                     leadingIcon = {
                                         Icon(
-                                            painter = painterResource(R.drawable.circle_dashed_check),
+                                            painter = painterResource(R.drawable.square_rounded_check),
                                             tint = if (isSystemInDarkTheme()) Color.White else Color.Black,
                                             contentDescription = null,
                                             modifier = Modifier.size(28.dp),
